@@ -1,0 +1,34 @@
+# Node / JS
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Build output
+.next
+dist
+build
+out
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Git
+.git
+.gitignore
+
+# Docker files (tránh copy lồng nhau)
+Dockerfile
+docker-compose.yml
+
+# Editor / OS trash
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+
+# Test & docs
+coverage
+*.md

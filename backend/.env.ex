@@ -1,0 +1,1 @@
+MONGO_URL=mongodb+srv://<username>:<password>@moviewebsite.jx87f95.mongodb.net/?retryWrites=true
